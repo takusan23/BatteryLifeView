@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BatteryLifeView</string>
+    <string name="menu_battery_life">BatteryLife</string>
+    <string name="menu_battery_service">Battery Record Service</string>
+    <string name="service_start">Start Service</string>
+    <string name="service_stop">Stop Service</string>
+    <string name="service_description">Use the service to periodically record the remaining battery power.</string>
+    <string name="darkmode">Darkmode</string>
+    <string name="lite_theme">Light Theme</string>
+    <string name="charge_no">Discharge</string>
+    <string name="charge_usb">USB charging</string>
+    <string name="charge_ac">AC charging</string>
+    <string name="charge_error">Unknown</string>
+    <string name="charge_wireless">Wireless charging</string>
+    <string name="time_interval">Interval to get(Minute)</string>
+    <string name="save">Save</string>
+    <string name="licence">Licence</string>
+</resources>

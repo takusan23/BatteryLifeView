@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BatteryLifeView</string>
+    <string name="menu_battery_life">電池履歴</string>
+    <string name="menu_battery_service">記録サービス</string>
+    <string name="service_start">サービス開始</string>
+    <string name="service_stop">サービス終了</string>
+    <string name="service_description">"サービスを利用して、定期的に電池残量を記録します。 "</string>
+    <string name="darkmode">ダークモード</string>
+    <string name="lite_theme">ライトテーマ</string>
+    <string name="charge_no">放電</string>
+    <string name="charge_usb">USB充電</string>
+    <string name="charge_wireless">ワイヤレス充電</string>
+    <string name="charge_error">エラー</string>
+    <string name="charge_ac">AC充電</string>
+    <string name="time_interval">取得する間隔(分)</string>
+    <string name="save">保存</string>
+    <string name="licence">ライセンス</string>
+</resources>
